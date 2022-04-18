@@ -1,4 +1,4 @@
-html>
+<html>
 <head>
     <title>Tampil Data Matakuliah</title>
 </head>
@@ -22,7 +22,7 @@ html>
     <td>Nama MTK</td>
     <td>:</td>
     <td>
-        <?= $nama; ?>
+    <?= $nama; ?>
     </td>
 </tr> <tr>
     <td>SKS</td>
